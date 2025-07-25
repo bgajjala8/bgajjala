@@ -3,7 +3,7 @@ import type { Navigation } from "../types/navigation";
 export const NAVIGATION: Navigation = [
     {
         name: "Home",
-        path: "bgajjala/",
+        path: "/home",
     },
     {
         name: "Blog",
