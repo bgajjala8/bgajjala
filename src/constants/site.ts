@@ -15,10 +15,10 @@ export const NAVIGATION: {
     main: NavigationItem[];
 } = {
     main: [
-        { name: "Home", path: "/bgajjala/" },
-        { name: "Blog", path: "/bgajjala/blog" },
-        { name: "Notes", path: "/bgajjala/notes" },
-        { name: "Bookmarks", path: "/bgajjala/bookmarks" }
+        { name: "Home", path: "/" },
+        { name: "Blog", path: "/blog" },
+        { name: "Notes", path: "/notes" },
+        { name: "Bookmarks", path: "/bookmarks" }
     ],
 } as const;
 
